@@ -21,6 +21,6 @@ This repository is a Fork/Derivative.
 Original Logic: [zhaochenyuangit] (No License Provided).
 https://github.com/zhaochenyuangit/IR-room-monitor
 
-My Enhancements: Licensed under MIT.
+Our Enhancements: Licensed under MIT.
 
 Contribution Policy: By contributing to this repo, you agree to license your work under MIT.
